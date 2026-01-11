@@ -1,0 +1,32 @@
+text,intent
+hey,greeting
+hello,greeting
+hi,greeting
+how are you,greeting
+
+i want laptop,ecommerce
+buy a laptop,ecommerce
+need a mobile,ecommerce
+cheap products,ecommerce
+
+under 90000,price_filter
+less than 50000,price_filter
+budget is 1 lakh,price_filter
+
+i am hungry,food
+i want biryani,food
+suggest food,food
+order food,food
+
+i need a job,job
+software engineer jobs,job
+jobs in islamabad,job
+
+book a flight,travel
+places to visit in hunza,travel
+hotels in murree,travel
+
+thanks,thanks
+thank you,thanks
+bye,exit
+exit,exit
